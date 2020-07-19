@@ -61,6 +61,8 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
 * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
 * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
+* [Game Engine Black Book: DOOM](https://fabiensanglard.net/gebbdoome.pdf) `book`
+* [Game Engine Black Book: Wolfenstein 3D](https://fabiensanglard.net/gebbwolf3d_v2.1.pdf) `book`
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress`
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
