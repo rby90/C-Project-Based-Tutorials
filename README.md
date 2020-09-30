@@ -2,7 +2,7 @@
 
 A list of tutorials that work towards the making of small to large projects in C.
 
-## Table of Contents
+## Table of Contents 
 
 * [Computer Architecture](#computer-architecture)
 * [Computer Networking](#computer-networking)
@@ -46,7 +46,7 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
     * [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
 
-## Databases
+## Database
 
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
@@ -123,7 +123,7 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
    * [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)
 
-## Programming Languages
+## Programming Languages used in project
 
 * [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
